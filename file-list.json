@@ -1,0 +1,12 @@
+{
+  "base": "../9.3.1",
+  "files": [
+    "**/*.install",
+    "**/*.xml",
+    "**/*.conf",
+    "**/*.ini",
+    "**/*.properties",
+    "**/login.xsl",
+    "**/*ystem_template.xsl"
+  ]
+}
