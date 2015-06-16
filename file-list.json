@@ -8,5 +8,11 @@
     "**/*.properties",
     "**/login.xsl",
     "**/*ystem_template.xsl"
+  ],
+  "exclude": [
+    "appserv/common/**/*",
+    "appserv/win32/**/*",
+    "appserv/apps/lang/**/*"
   ]
 }
+
